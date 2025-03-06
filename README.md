@@ -1,2 +1,0 @@
-# PlantWateringTracker
-Plant Watering Tracker 
